@@ -28,7 +28,7 @@ Este lenguaje genera código Javascript, es decir, escribirás código Typescrip
 
 La siguiente tabla muestra algunas palabras clave del lenguaje TypeScript:
 
-![Palabras Claves](img\Palabras Claves.PNG)
+![Palabras Claves](img\palabras_claves.PNG)
 
 
 
@@ -50,7 +50,7 @@ Cada vez mas proyectos front-end conocidos de código abierto eligen TypeScript 
 
 Se encuentra en el puesto 3 de los 13 lenguajes mas valorados por los usuarios, estando empatado con Python y solo superado por Rust.
 
-![Ranking](img\Ranking.png) 
+![Ranking](img\ranking.png) 
 
 
 
@@ -60,7 +60,7 @@ TypeScript es un superconjunto de JavaScript que está diseñado para usarse en 
 
 Este lenguaje tiene varios beneficios que lo convierten en una mejor opción que JavaScript. Proporciona escritura estática para que no tenga que declarar variables antes de usarlas, lo que le muestra un error si está usando una variable incorrectamente. TypeScript también incluye algunas características que no están incluidas en JavaScript, como clases, interfaces, verificación de tipo opcional en variables o simplemente en parámetros de función o valores de retorno, y módulos que pueden ayudar a organizar su código para proyectos de cualquier tamaño.
 
-![Comparacion java vs typescript](img\Comparacion java vs typescript.png)
+![Comparacion java vs typescript](img\comparacion.png)
 
 
 
