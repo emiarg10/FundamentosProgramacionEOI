@@ -28,7 +28,7 @@ Este lenguaje genera código Javascript, es decir, escribirás código Typescrip
 
 La siguiente tabla muestra algunas palabras clave del lenguaje TypeScript:
 
-![Palabras Claves](img/palabras_claves.PNG)
+![Palabras Claves](img/palabras_claves.png)
 
 
 
@@ -50,7 +50,7 @@ Cada vez mas proyectos front-end conocidos de código abierto eligen TypeScript 
 
 Se encuentra en el puesto 3 de los 13 lenguajes mas valorados por los usuarios, estando empatado con Python y solo superado por Rust.
 
-![Ranking](img/ranking.png) 
+![Ranking](img/Ranking.png) 
 
 
 
