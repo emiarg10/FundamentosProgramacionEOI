@@ -40,9 +40,9 @@ TypeScript es un lenguaje sensible a mayúsculas y minúsculas. Esto implica que
 
 - ## Salario medio de un programador de TypeScript
 
-El TypeScript está asociado con un salario medio de 57.433 euros, siendo un 5'4% más alto que la media global.
+El salario promedio nacional de un programador de TypeScript es de $ 80,760 en los Estados Unidos de América y de unos 57.433€ en España.
 
-​		
+
 
 - ## Comunidad del lenguaje
 
